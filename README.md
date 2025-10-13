@@ -1,2 +1,2 @@
-# baby_formula_recipes
+# Baby Formula Recipes
 Baby Formula Recipes
