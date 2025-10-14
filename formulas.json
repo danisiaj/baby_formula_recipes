@@ -1,7 +1,20 @@
 {
   "Alfamino Infant": {
     "type": "powder",
-    "note": "",
+    "note": "Type: Amino acid–based formula (powder)
+When to Use:
+For infants with severe cow’s milk protein allergy (CMPA) or multiple food protein intolerances.
+Also suitable for infants with malabsorption, short bowel syndrome, or eosinophilic esophagitis when extensively hydrolyzed formulas are not tolerated.
+
+Benefits:
+Contains 100% free amino acids—no intact proteins, making it hypoallergenic.
+Includes medium-chain triglycerides (MCTs) for easier fat absorption.
+Nutritionally complete for infants up to 12 months.
+
+Cons / Cautions:
+Costly compared to standard formulas.
+Taste and smell may be less appealing, which can affect feeding acceptance.
+Should be used under medical supervision due to its specialized composition.",
     "basic_recipe_cal": 20,
     "scoop_g": 4.7,
     "tsp_g": 2.6,
@@ -1336,7 +1349,7 @@
   },
   "Similac Human Milk Fortifier": {
     "type": "liquid",
-    "note": "MBM only",
+    "note": "SSC30 stands for Similac Special Care 30kcal/oz",
     "special_recipe": {
       "20.5": {
         "hmf_packets": 1,
