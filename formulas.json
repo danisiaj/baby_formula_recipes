@@ -97,7 +97,7 @@
   },
   "Elecare Infant": {
     "type": "powder",
-    "note": "this is special note for elecare infant from github",
+    "note": "this is special note for elecare infant from GitHub",
     "basic_recipe_cal": 20,
     "scoop_g": 9.4,
     "tsp_g": 2.1,
