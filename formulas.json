@@ -97,7 +97,7 @@
   },
   "Elecare Infant": {
     "type": "powder",
-    "note": "this is special note for elecare infant from GitHub",
+    "note": "**Type:** Amino acid–based formula (powder)\n\n**When to Use:**\n- For infants with severe cow’s milk protein allergy (CMPA) who do not tolerate extensively hydrolyzed formulas.\n- For infants with multiple food protein intolerances.\n- Suitable for malabsorption, short bowel syndrome, or eosinophilic gastrointestinal disorders requiring an elemental diet.\n\n**Benefits:**\n- 100% free amino acids — hypoallergenic.\n- Lactose-free and appropriate for severe protein intolerance.\n- Nutritionally complete for infants up to 12 months.\n- Can be administered orally or via tube feeding.\n\n**Cautions:**\n- Should be used under medical supervision.\n- Higher caloric concentrations may require hydration monitoring.\n- Cost may be higher than standard or hydrolyzed formulas.",
     "basic_recipe_cal": 20,
     "scoop_g": 9.4,
     "tsp_g": 2.1,
